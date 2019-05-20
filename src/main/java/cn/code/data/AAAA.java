@@ -1,4 +1,4 @@
-package cn.code.web;
+package cn.code.data;
 
 /**
  * @author qi.shen
