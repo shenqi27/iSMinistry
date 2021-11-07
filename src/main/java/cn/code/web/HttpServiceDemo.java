@@ -17,7 +17,7 @@ public class HttpServiceDemo {
 
     @RequestMapping(value = "/aaaa", method = RequestMethod.POST)
     public String getUserInfo(@RequestBody AAAA aa){
-
+        System.out.println();
         return aa.getA();
     }
 
